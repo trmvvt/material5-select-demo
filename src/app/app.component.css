@@ -1,0 +1,17 @@
+/** No CSS for this example */
+button{
+  background-color: #6666ff;
+}
+
+.example-container {
+  display: flex;
+  flex-direction: column;
+    width: 50%;
+    margin: auto;
+    background-color: #ececec;
+    padding: 60px;
+}
+
+.example-full-width {
+  width: 100%;
+}
